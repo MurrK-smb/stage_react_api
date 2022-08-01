@@ -2,6 +2,7 @@ import Popup from "../Popup/Popup";
 import Form from "../Form/Form";
 import "./PopupWithForm.css";
 import FormRedirect from "../FormRedirect/FormRedirect";
+import React from "react";
 
 const PopupWithForm = ({
   name,

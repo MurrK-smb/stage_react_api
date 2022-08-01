@@ -1,5 +1,6 @@
 import "./InfoTooltip.css";
 import Popup from "../Popup/Popup";
+import React from "react";
 
 const InfoTooltip = ({ isOpen, onClose, openSignin }) => {
   return (

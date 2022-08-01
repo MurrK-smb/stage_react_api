@@ -1,5 +1,6 @@
 import "./Header.css";
 import SearchForm from "../SearchForm/SearchForm";
+import React from "react";
 
 const Header = ({ startLoadingNews, activateSearch }) => {
   return (

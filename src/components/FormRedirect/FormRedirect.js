@@ -1,4 +1,5 @@
 import "./FormRedirect.css";
+import React from "react";
 
 const FormRedirect = ({ onSwitch, popupRedirectText }) => {
   return (

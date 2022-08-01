@@ -1,6 +1,6 @@
 import "./NewsCard.css";
 import alternativeBackground from "../../images/header_background.png";
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
 const NewsCard = ({
   card,

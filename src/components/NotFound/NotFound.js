@@ -1,4 +1,5 @@
 import "./NotFound.css";
+import React from "react";
 
 const NothingFound = ({ title, text, nothingFoundIcom }) => {
   return (

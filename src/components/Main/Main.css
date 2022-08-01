@@ -10,8 +10,8 @@
 }
 
 .about__image {
-  max-width: 464px;
-  border-radius: 1000px;
+  max-width: 450px;
+  border-radius: 50%;
 }
 
 .about__wrapper {
@@ -34,7 +34,7 @@
   font-family: "Roboto", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 1.33;
 }
 

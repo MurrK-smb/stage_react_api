@@ -1,5 +1,6 @@
 import "./Main.css";
-import aboutImage from "../../images/author.png";
+import aboutImage from "../../images/author.jpg";
+import React from "react";
 
 const Main = () => {
   return (
@@ -13,15 +14,14 @@ const Main = () => {
         <div className="about__wrapper">
           <h2 className="about__title">About the author</h2>
           <p className="about__description">
-            Hey there, I'm Timothy. I'm a motivated and passionate aspiring
-            software engineer with a background in eCommerce, QA, Application
-            Delivery Management, Project Management and Trade Marketing. I have
-            a bachelor's degree in Economics and Business Management.
+            Hi everyone! I'm Nick. I'm a motivated and ambitious aspiring
+            software engineer with a technical skillset of HTML, CSS and
+            JavaScript as well as other technologies such as Node, SQL, MongoDB,
+            and Express.
           </p>
           <p className="about__description">
-            I’m a curious person, I love to code and I like to experiment with
-            new technologies. Now coding is my passion and my new professional
-            career focus.
+            I’m a driven person and extremely versatile. I work well under
+            pressure and am eager to share my new coding passion with the world.
           </p>
         </div>
       </section>

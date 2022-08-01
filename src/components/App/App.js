@@ -11,7 +11,7 @@ import NotFound from "../NotFound/NotFound.js";
 import SavedNewsHeader from "../SavedNewsHeader/SavedNewsHeader.js";
 import SavedNews from "../SavedNews/SavedNews.js";
 import ProtectedRoute from "../ProtectedRoute/ProtectedRoute.js";
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import InfoTooltip from "../InfoTooltip/InfoTooltip.js";
 import Preloader from "../Preloader/Preloader.js";
 import NewsCardList from "../NewsCardList/NewsCardList.js";

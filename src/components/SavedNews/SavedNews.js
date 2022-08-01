@@ -1,5 +1,6 @@
 import "./SavedNews.css";
 import NewsCard from "../NewsCard/NewsCard";
+import React from "react";
 
 const SavedNews = ({
   cards,
