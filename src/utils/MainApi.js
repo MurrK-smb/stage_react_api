@@ -7,8 +7,7 @@ import {
   UNAUTHORIZED,
 } from "./constants";
 
-export const BASE_URL =
-  "https://api.newsexplorer-timothyrusso.students.nomoreparties.sbs";
+export const BASE_URL = "";
 
 const checkResponse = (res) => {
   if (res.ok) {
